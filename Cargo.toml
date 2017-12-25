@@ -1,0 +1,8 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+authors = ["Oliver Jan Krylow <oliver@bugabinga.net>"]
+
+[dependencies]
+faster = "*"
+rayon = "*"
