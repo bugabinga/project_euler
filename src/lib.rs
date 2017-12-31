@@ -10,5 +10,9 @@
 
 extern crate rayon;
 extern crate faster;
+extern crate num_bigint;
+extern crate num_traits;
+extern crate num_integer;
 
 pub mod problem_1;
+pub mod problem_2;

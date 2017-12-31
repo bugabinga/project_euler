@@ -1,0 +1,31 @@
+assert_that_bound_gives_sum			        fn assert_that_bound_gives_sum(bound:usize, sum:usize)
+check_simple_cases			    fn check_simple_cases() 
+check_simple_cases			    fn check_simple_cases()
+no_op			    fn no_op(bencher: &mut Bencher)
+problem_1			pub mod problem_1;
+problem_2			pub mod problem_2;
+sum_even_fibonacci_numbers			pub fn sum_even_fibonacci_numbers(bound:BigUint) -> BigUint
+sum_even_fibonacci_numbers_4mio			    fn sum_even_fibonacci_numbers_4mio()
+sum_multiples_of_3_and_5			pub fn sum_multiples_of_3_and_5(bound:u32) -> u32
+sum_multiples_of_3_and_5_1000			    fn sum_multiples_of_3_and_5_1000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_10000			    fn sum_multiples_of_3_and_5_10000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_100000			    fn sum_multiples_of_3_and_5_100000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_1000000			    fn sum_multiples_of_3_and_5_1000000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_parallel			pub fn sum_multiples_of_3_and_5_parallel(bound:u32) -> u32
+sum_multiples_of_3_and_5_parallel_1000			    fn sum_multiples_of_3_and_5_parallel_1000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_parallel_10000			    fn sum_multiples_of_3_and_5_parallel_10000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_parallel_100000			    fn sum_multiples_of_3_and_5_parallel_100000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_parallel_1000000			    fn sum_multiples_of_3_and_5_parallel_1000000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_preallocate_vector_1000000			    fn sum_multiples_of_3_and_5_preallocate_vector_1000000(bencher: &mut Bencher)
+sum_multiples_of_3_and_5_simd			pub fn sum_multiples_of_3_and_5_simd(bound:u32) -> u32
+sum_multiples_of_3_and_5_simd_1000			    fn sum_multiples_of_3_and_5_simd_1000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_simd_10000			    fn sum_multiples_of_3_and_5_simd_10000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_simd_100000			    fn sum_multiples_of_3_and_5_simd_100000(bencher:&mut Bencher)
+sum_multiples_of_3_and_5_simd_1000000			    fn sum_multiples_of_3_and_5_simd_1000000(bencher:&mut Bencher)
+sum_of_1000_multiples			    fn sum_of_1000_multiples()
+tests			mod tests 
+tests			mod tests 
+tests			mod tests 
+tests			mod tests 
+tests			mod tests 
+tests			mod tests 

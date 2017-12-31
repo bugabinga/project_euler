@@ -6,3 +6,6 @@ authors = ["Oliver Jan Krylow <oliver@bugabinga.net>"]
 [dependencies]
 faster = "*"
 rayon = "*"
+num-bigint = "*"
+num-integer = "*"
+num-traits = "*"
