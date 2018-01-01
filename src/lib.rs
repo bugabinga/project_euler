@@ -5,7 +5,7 @@
 ///! This is of course a silly use of integration tests, but I want to use
 ///! this opportunity to learn about project structure in Rust.
 ///!
-///! More specific and rigorous testing will be found in *test*-submodule in
+///! More specific and rigorous testing will be found in *test*-sub module in
 ///! each problem module.
 
 extern crate rayon;
@@ -16,3 +16,4 @@ extern crate num_integer;
 
 pub mod problem_1;
 pub mod problem_2;
+pub mod problem_3;
